@@ -37,8 +37,7 @@ This project is a Doctor Portfolio website showcasing medical professionals' exp
    http://localhost:your_port_number/
 
    Screenshots
-
-   ![Screenshot from 2023-08-26 15-09-04](https://github.com/zobirofkir/DoctorFolio/assets/135469129/297ebc8e-d609-4f8b-ad72-dda943e6aaf9)
+   https://github.com/zobirofkir/DoctorFolio/assets/135469129/297ebc8e-d609-4f8b-ad72-dda943e6aaf9
    ![Screenshot from 2023-08-26 15-09-12](https://github.com/zobirofkir/DoctorFolio/assets/135469129/82432f5f-c6cf-45ad-bbae-739b8134f1a8)
    ![Screenshot from 2023-08-26 15-09-16](https://github.com/zobirofkir/DoctorFolio/assets/135469129/60d5ae87-f2d2-43f4-a97f-3d61e15d8f45)
    ![Screenshot from 2023-08-26 15-09-21](https://github.com/zobirofkir/DoctorFolio/assets/135469129/985b8117-5cc9-4dd2-bb74-2d06de442768)
